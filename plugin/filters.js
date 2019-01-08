@@ -94,8 +94,8 @@
 
     Filter.userAccountEdit = function (data, callback) {
         data.editButtons.push({
-            link: '/user/' + data.userslug + '/edit/custom-fields',
-            text: 'Change Extra'
+            link: '/user/' + data.userslug + '/edit/specializare',
+            text: 'Editeaza specializarea'
         });
 
         callback(null, data);

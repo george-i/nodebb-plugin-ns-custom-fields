@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/george-i/nodebb-plugin-ns-custom-fields-hub/issues"
   },
-  "homepage": "https://github.com/george-i/nodebb-plugin-ns-custom-fields",
+  "homepage": "https://github.com/george-i/nodebb-plugin-ns-custom-fields-hub",
   "readmeFilename": "README.md",
   "dependencies": {
     "async": "^2.6.1",

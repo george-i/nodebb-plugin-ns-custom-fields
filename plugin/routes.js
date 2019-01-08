@@ -29,7 +29,7 @@
 
         // Client edit page
         routeHelpers.setupPageRoute(
-            router, '/user/:userslug/edit/custom-fields',
+            router, '/user/:userslug/edit/specializare',
             middleware, [middleware.checkGlobalPrivacySettings, middleware.checkAccountPermissions],
             Module.renderClient);
 
