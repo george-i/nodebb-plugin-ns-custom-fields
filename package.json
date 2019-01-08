@@ -1,14 +1,14 @@
 {
-  "name": "nodebb-plugin-ns-custom-fields",
+  "name": "nodebb-plugin-ns-custom-fields-hub",
   "version": "6.0.0",
-  "description": "Adds custom fields to the profile",
+  "description": "Adds custom fields to the profile. Forked from Nicolas Silver.",
   "main": "./plugin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NicolasSiver/nodebb-plugin-ns-custom-fields.git"
+    "url": "https://github.com/george-i/nodebb-plugin-ns-custom-fields-hub.git"
   },
   "keywords": [
     "nodebb",
@@ -17,12 +17,12 @@
     "user",
     "extend"
   ],
-  "author": "Nicolas Siver",
+  "author": "George Ilie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NicolasSiver/nodebb-plugin-ns-custom-fields/issues"
+    "url": "https://github.com/george-i/nodebb-plugin-ns-custom-fields-hub/issues"
   },
-  "homepage": "https://github.com/NicolasSiver/nodebb-plugin-ns-custom-fields",
+  "homepage": "https://github.com/george-i/nodebb-plugin-ns-custom-fields",
   "readmeFilename": "README.md",
   "dependencies": {
     "async": "^2.6.1",
