@@ -1,6 +1,6 @@
 {
   "id": "nodebb-plugin-ns-custom-fields-hub",
-  "name": "NodeBB Custom Fields",
+  "name": "NodeBB Custom Fields for Hub",
   "description": "Adds custom fields to the user's profile",
   "url": "https://github.com/george-i/nodebb-plugin-ns-custom-fields-hub",
   "library": "./plugin/index.js",

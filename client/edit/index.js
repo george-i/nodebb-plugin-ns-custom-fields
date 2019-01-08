@@ -34,11 +34,11 @@ define('forum/client/plugins/custom-fields-edit', [], function () {
 
     function appendControl($container) {
         var $row = $('<div></div>').addClass('row');
-        var $column = $('<div></div>').addClass('col-md-4 col-md-offset-4 form-actions');
+        var $column = $('<div></div>').addClass('col-md-4 form-actions');
         var $button = $('<a></a>')
             .addClass('btn btn-primary btn-block')
             .attr('href', '#')
-            .text('Save')
+            .text('Salveaza')
             .on('click', function () {
                 Edit.save();
             });

@@ -59,7 +59,7 @@
         custom_header.plugins.push({
             route: '/plugins/custom-fields',
             icon : faIcon,
-            name : 'Custom Fields'
+            name : 'Custom Fields Hub'
         });
         callback(null, custom_header);
     };
