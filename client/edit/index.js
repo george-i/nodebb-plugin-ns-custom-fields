@@ -28,7 +28,7 @@ define('forum/client/plugins/custom-fields-edit', [], function () {
                 return app.alertError(error.message);
             }
 
-            app.alertSuccess('Custom fields are saved.');
+            app.alertSuccess('Specializarea a fost salvata.');
         });
     };
 
